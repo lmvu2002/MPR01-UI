@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MPR01-UI</string>
+    <string name="search">Search</string>
+    <string name="hello">Hello</string>
+    <string name="health">Health</string>
+    <string name="comfort">Comfort</string>
+    <string name="home">Home</string>
+    <string name="favorite">Favorite</string>
+    <string name="account">Account</string>
+    <string name="setting">Setting</string>
+    <string name="lorem_ipsum_dolor_sit_amet_consecteur_adipiscing_elit_vestibulum_convallis_tortor_sit_amet_pulvinar_consectetur_metus_diam_tempor">Lorem ipsum dolor sit amet, consecteur adipiscing elit. Vestibulum convallis, tortor sit amet pulvinar consectetur, metus diam tempor ...</string>
+</resources>
